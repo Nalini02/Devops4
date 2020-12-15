@@ -1,0 +1,26 @@
+
+How to create tar.gz file in Linux using command line - nixCraftwww.cyberciti.biz › faq › how-to-create-tar-gz-file-in-li...
+Jul 23, 2020 — gz file in Linux using command line. Open the terminal application in Linux. Run tar command to create an archived named file. tar. gz for given directory name by running: tar -czvf file. tar. gz directory. Verify tar. gz file using the ls command and tar command.
+
+Creating A tar File in Linux Via Command Line Options - nixCraftwww.cyberciti.biz › faq › creating-a-tar-file-linux-com...
+Mar 10, 2014 — How do I create a tar file under Linux using command line options? You need to use the tar command to create an archive (also known as tar ball) under Linux ... For this script it's advisable to use a shell, such as Bash,
+
+How to tar a file in Linux using command line - nixCraftwww.cyberciti.biz › faq › how-to-tar-a-file-in-linux-usi...
+Nov 3, 2018 — How to create tar a file in Linux · -c : Create a new archive · -v : Verbose output · -f file. tar. gz : Use archive file · -z : Filter the archive through gzip · -j ...
+
+How to Compress and Extract Files Using the tar Command ...www.howtogeek.com › how-to-compress-and-extract-fi...
+Apr 10, 2016 — The tar command on Linux is often used to create .tar.gz or .tgz archive files, also called “tarballs.” This command has a large number of options ...
+People also ask
+How do I tar a file in bash?
+
+How do I create a tar file?
+
+What is tar CVF?
+
+Feedback
+
+How To Create An Archive Using Tar In Linux - Linux How-To ...www.bleepingcomputer.com › forums › how-to-create-...
+Connect to a shell or open a terminal/console on your Linux/Unix machine. · To create an archive of a directory and its contents you would type the ...
+Jan 24, 2006 · 1 post · ‎1 author
+
+Howto - create a tar filewww.bic.mni.mcg
